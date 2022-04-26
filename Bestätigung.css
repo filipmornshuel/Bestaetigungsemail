@@ -1,0 +1,67 @@
+table
+{
+    margin: 0 auto;
+    font: 20px Tahoma;
+    text-align: center;
+    background: linear-gradient(to top, #ccc, #eee);
+    border-collapse: collapse;
+
+
+}
+
+th
+{
+    background: rgba(200,0,0,0.8);
+    color: black;
+    padding: 10px;
+    border-top: 6px solid #f55;
+}
+
+td
+{
+    width: 210px;
+    padding: 10px;
+    background: rgba(15,15,15,0.1);
+    font-weight: 300;
+}
+
+th, td
+{
+    width: 110px;
+    background: #B8B8B8;
+}
+
+
+table, th, td, tr
+{
+    border: 1px solid #ddd;
+    text-align: center;
+
+}
+
+
+h1
+{
+    text-align: center;
+    font: 50px Impact;
+    color: white;
+
+}
+
+p
+{
+    text-align: center;
+    font: 30px Impact;
+    color: white;
+}
+
+caption
+{
+    text-align: center;
+    font: 30px Impact;
+    color: white;
+}
+
+body, footer {
+    background-color: 	#282828;
+}

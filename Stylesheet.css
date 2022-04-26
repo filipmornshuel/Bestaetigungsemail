@@ -1,0 +1,61 @@
+h1
+{
+    text-align: center;
+    font: 50px Impact;
+    color: white;
+
+}
+
+h2
+{
+    font: 20px Arial;
+    color: white;
+}
+
+p
+{
+    color: white;
+    font: 30px Arial;
+}
+
+caption
+{
+    text-align: center;
+    font: 30px Impact;
+    color: black;
+}
+
+body, footer {
+ background-color: 	#282828;
+}
+
+
+
+label
+{
+    font: 30px Arial;
+    color: white;
+    text-align: center;
+
+
+}
+
+input
+{
+    font: 30px Arial;
+    background: #B8B8B8;
+
+
+}
+
+legend
+{
+    font: 30px Arial;
+    color: white;
+
+}
+li
+{
+    font: 15px Arial;
+    color: white;
+}
